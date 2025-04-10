@@ -20,8 +20,8 @@
   ## 2. Set Up the Application
    * If using MySQL, update the database properties in 'application.properties'.
 
-      spring.datasource.url=jdbc:mysql://localhost:3306/mvc
-      spring.datasource.username=root
+      * spring.datasource.url=jdbc:mysql://localhost:3306/mvc
+      * spring.datasource.username=root
       spring.datasource.password=password
       spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
       spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
