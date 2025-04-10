@@ -13,7 +13,7 @@
  * Showing Bank Balance
 
 ## How to Run It
-  ## !.Instailation
+  ## 1.INSTAILLATION
    * Clone the Repository:-'https://github.com/NARAYANA3399/Banking_Application'
    * Navigate to the Project folder.
    * Run the application using 'mvn Spring-boot:run'.
