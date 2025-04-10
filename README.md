@@ -1,9 +1,9 @@
 ## Banking Application
- A Built a Banking_Application with using Java, Spring boot & Thymeleaf
+ A Full Stark Banking Application Built with Java, Spring boot & Thymeleaf
 ## Technologies Used
  * FrontEnd: CSS, HTML, Boots Strap
  * BackEnd: Java, Spring Boot, RestFul API's
- * DataBase: MySQl
+ * DataBase: MySQL
  * JPA: Hibernate for database interaction
    
 ## Features
