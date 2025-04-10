@@ -59,10 +59,10 @@ Built using Java, Spring Boot, and Thymeleaf, the application includes both back
   * Account Create & Amount Deposit
 ![Screenshot 2025-04-10 161813](https://github.com/user-attachments/assets/1f8e6f46-b4a4-415b-b14f-0f58b3e2eb89)
 
-  * Amount WithDraw & Amount transfer
+  * Amount WithDraw & Money Transfer
 ![Screenshot 2025-04-10 161829](https://github.com/user-attachments/assets/453afda0-de48-499b-838a-89377bf094be)
 
-  * Amount transfer & Account Balance
+  * Money Transfer & Account Balance
 ![Screenshot 2025-04-10 165359](https://github.com/user-attachments/assets/4a5ea4d2-a9e6-493d-ac52-ebb32d94f295)
 
 
