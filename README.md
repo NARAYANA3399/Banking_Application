@@ -9,10 +9,10 @@ Built using Java, Spring Boot, and Thymeleaf, the application includes both back
  * JPA: Hibernate for database interaction
    
 ## Features
- * Amount or Money Deposit
- * Amount or Money WithDraw
- * Account to any Account Amount Transtion
- * Showing Bank Balance
+ * Deposit Money into Accounts
+ * Withdraw Money from Accounts
+ * Transfer Money Between Accounts
+ * View Account Balance
 
 ## How to Run It
   ## 1. Repository
