@@ -1,5 +1,7 @@
 ## Banking Application
- A Full Stark Banking Application Built with Java, Spring boot & Thymeleaf
+The Banking Application is a simple banking system that allows users to manage accounts, deposit money, withdraw money, transfer funds between accounts, and check the balance.
+
+Built using Java, Spring Boot, and Thymeleaf, the application includes both back-end logic and a front-end UI.
 ## Technologies Used
  * FrontEnd: CSS, HTML, BootsStrap
  * BackEnd: Java, Spring Boot, RestFul API's
