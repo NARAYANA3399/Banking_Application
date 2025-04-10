@@ -18,15 +18,15 @@
    * Navigate to the Project folder.
    * Run the application using 'mvn Spring-boot:run'.
   ## 2. Set Up the Application
-   * If using MySQL, update the database properties in 'application.properties'.
+   * If using MySQL, update the database properties in 'src/main/resources/application.properties'.
 
       * spring.datasource.url=jdbc:mysql://localhost:3306/mvc
       * spring.datasource.username=root
-      spring.datasource.password=password
-      spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-      spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
-      spring.jpa.hibernate.ddl-auto=update 
-      spring.jpa.show-sql=true
+      *  spring.datasource.password=password
+      *  spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+      *  spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+      *  spring.jpa.hibernate.ddl-auto=update 
+      * spring.jpa.show-sql=true
      
   ## 3.Run the Application
    * Open the project in your IDE (e.g., IntelliJ or VS Code).
