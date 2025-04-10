@@ -2,18 +2,19 @@
 The Banking Application is a simple banking system that allows users to manage accounts, deposit money, withdraw money, transfer funds between accounts, and check the balance.
 
 Built using Java, Spring Boot, and Thymeleaf, the application includes both back-end logic and a front-end UI.
+
+## key Features
+ * Deposit Money into Accounts
+ * Withdraw Money from Accounts
+ * Transfer Money Between Accounts
+ * View Account Balance
+
 ## Technologies Used
  * FrontEnd: CSS, HTML, BootsStrap
  * BackEnd: Java, Spring Boot, RestFul API's
  * DataBase: MySQL (for storing user data)
  * JPA: Hibernate for database interaction
    
-## Features
- * Deposit Money into Accounts
- * Withdraw Money from Accounts
- * Transfer Money Between Accounts
- * View Account Balance
-
 ## How to Run It
   ## 1. Repository
    * Clone the Repository:-'https://github.com/NARAYANA3399/Banking_Application'
