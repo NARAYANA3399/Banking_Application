@@ -3,7 +3,7 @@
 ## Technologies Used
  * FrontEnd: CSS, HTML, BootsStrap
  * BackEnd: Java, Spring Boot, RestFul API's
- * DataBase: MySQL
+ * DataBase: MySQL (for storing user data)
  * JPA: Hibernate for database interaction
    
 ## Features
