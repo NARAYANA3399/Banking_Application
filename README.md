@@ -13,17 +13,17 @@
  * Showing Bank Balance
 
 ## How to Run It
-  ## 1.INSTAILLATION
+  ## 1. Repository
    * Clone the Repository:-'https://github.com/NARAYANA3399/Banking_Application'
    * Navigate to the Project folder.
    * Run the application using 'mvn Spring-boot:run'.
-  ## 2.Set Up the Application
+  ## 2. Set Up the Application
    * If using MySQL, update the database properties in 'application.properties'.
   ## 3.Run the Application
    * Open the project in your IDE (e.g., IntelliJ or VS Code).
    * Run the BugTrackerApplication.java class.
    * The application should now be running at 'http://localhost:8080'.
-  ## 4.Test the API Endpoints
+  ## 4. Test the API Endpoints
    ## Use Browser or any API client to test the following endpoints:
    
    *  GET /bank/ - Bank Home Page
