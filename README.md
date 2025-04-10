@@ -21,7 +21,7 @@
    * If using MySQL, update the database properties in 'application.properties'.
   ## 3.Run the Application
    * Open the project in your IDE (e.g., IntelliJ or VS Code).
-   * Run the BugTrackerApplication.java class.
+   * Run the BankingApplication.java class (which contains the @SpringBootApplication annotation).
    * The application should now be running at 'http://localhost:8080'.
   ## 4. Test the API Endpoints
    ## Use Browser or any API client to test the following endpoints:
